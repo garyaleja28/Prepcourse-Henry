@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-este es un repositorio del modulo 2 de Henry
+Est proyecto es una prueba de cómo crear un repositorio y clonarlo desde github a mi escritorio
